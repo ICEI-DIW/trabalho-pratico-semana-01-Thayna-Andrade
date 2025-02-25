@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Thayna Andrade Caldeira Antunes
+Matricula: 895349
 
 ## Tela de inspeção com navegador
-
+![alt text](trav1.png)
 
 ## Tela de projeto no Replit
-
+![alt text](trab2.png)
